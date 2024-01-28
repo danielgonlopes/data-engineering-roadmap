@@ -2,8 +2,6 @@
 
 Seja bem vindo ao Projeto Automação Data Quality Excel Etl
 
-Não perca [nosso workshop aberto](https://www.jornadadedados2024.com.br/) no dia 24/01
-
 Vamos fazer todo o código desse projeto ao vivo
 
 ## Conteúdo
